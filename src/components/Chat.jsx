@@ -8,7 +8,7 @@ import Message from "./Message";
 import ReactScrollToBottom from "react-scroll-to-bottom";
 import cross from "../images/crosslogo.png";
 
-const ENDPOINT = `http://localhost:4000/`;
+const ENDPOINT = `https://chat-app-q59v.onrender.com/`;
 
 let socket;
 
